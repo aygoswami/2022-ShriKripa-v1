@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title ("Technology Value Map")
-St.ballons ()
+st.title("Technology Value Map")
+st.ballons()
